@@ -17,19 +17,19 @@ From *"AdventureWorksDW2019"* Database, the following tables were chosen for ana
 
 ## DATA VISUALIZATION
 ##### i. Entity Relationship Diagram Model
-![1  Model Relations] (https://github.com/Saianiruthm/powerbiproject1/blob/633450ea0baed3d8a8f69d2eb4a99b8072cbdf13/pictures/model.jpg)
+![1  Model Relations](https://github.com/Saianiruthm/powerbiproject1/blob/633450ea0baed3d8a8f69d2eb4a99b8072cbdf13/pictures/model.jpg)
 
 #### ii. Sales Overview DASHBOARD
-![2  Sales Overview] (https://github.com/Saianiruthm/powerbiproject1/blob/633450ea0baed3d8a8f69d2eb4a99b8072cbdf13/pictures/Sales_Overview.jpg)
+![2  Sales Overview](https://github.com/Saianiruthm/powerbiproject1/blob/633450ea0baed3d8a8f69d2eb4a99b8072cbdf13/pictures/Sales_Overview.jpg)
 
 #### iii. Customer Details DASHBOARD
-![3  Customer Details] (https://github.com/Saianiruthm/powerbiproject1/blob/633450ea0baed3d8a8f69d2eb4a99b8072cbdf13/pictures/Customer.jpg)
+![3  Customer Details](https://github.com/Saianiruthm/powerbiproject1/blob/633450ea0baed3d8a8f69d2eb4a99b8072cbdf13/pictures/Customer.jpg)
 
 #### iv. Product Details DASHBOARD
-![4  Product Details] (https://github.com/Saianiruthm/powerbiproject1/blob/633450ea0baed3d8a8f69d2eb4a99b8072cbdf13/pictures/Product.jpg)
+![4  Product Details](https://github.com/Saianiruthm/powerbiproject1/blob/633450ea0baed3d8a8f69d2eb4a99b8072cbdf13/pictures/Product.jpg)
 
 #### v. Sales Map
-![5  Sales Map] (https://github.com/Saianiruthm/powerbiproject1/blob/633450ea0baed3d8a8f69d2eb4a99b8072cbdf13/pictures/Sales%20Map.jpg)
+![5  Sales Map](https://github.com/Saianiruthm/powerbiproject1/blob/633450ea0baed3d8a8f69d2eb4a99b8072cbdf13/pictures/Sales%20Map.jpg)
 
 #### vi. sales by Budget Map
-![6  Sales By Budget Map] (https://github.com/Saianiruthm/powerbiproject1/blob/633450ea0baed3d8a8f69d2eb4a99b8072cbdf13/pictures/Sales%20by%20Budget%20Map.jpg)
+![6  Sales By Budget Map](https://github.com/Saianiruthm/powerbiproject1/blob/633450ea0baed3d8a8f69d2eb4a99b8072cbdf13/pictures/Sales%20by%20Budget%20Map.jpg)
